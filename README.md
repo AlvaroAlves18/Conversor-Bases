@@ -6,3 +6,8 @@ Conversor de bases, onde o usuário entra com um outro número e, em seguida, pe
 # Calculadora 
 
 Usuário entra com a opção de função de calculo desejada, em seguida entra com os dois números de sua preferencia, que ele deseja calcula-los (assim como o conversor, a calculadora possui estrutura de repetição "while", porém com diferentes condições).
+
+
+# IMC
+
+Realiza o calculo do indice de massa corporal do individuo, com a entrada de seu peso (kg) e altura (Metro), e diz em que condição ele se encontra (magro, saudavel, obeso e etc...).
